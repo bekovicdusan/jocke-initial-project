@@ -1,0 +1,21 @@
+body {
+  margin: 80px;
+  background-color: #5d5d5d;
+}
+
+.container .title {
+  color: white;
+}
+
+.container .btn {
+  opacity: 0.9;
+  border: 1px solid black;
+  border-radius: 6px;
+  padding: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.container .btn:hover {
+  opacity: 1;
+}

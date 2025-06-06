@@ -1,0 +1,18 @@
+# Sistem fajlovi
+.DS_Store
+Thumbs.db
+
+# Node i ostali package manager folderi (ako ih kasnije dodaš)
+node_modules/
+dist/
+build/
+
+# Editor fajlovi
+.vscode/
+.idea/
+
+# Log fajlovi
+*.log
+
+# OS privremeni fajlovi
+*.swp
